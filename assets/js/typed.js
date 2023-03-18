@@ -1,6 +1,6 @@
 const containEl = document.querySelector(".contain");
 
-const headings = ["Apple announces a new partnership...", "Samsung Releases S23 Ultra in February...", "Earthquake in Turkey...", "Elon Musk's Starlink arrives in Nigeria...", "Tecno Releases new Foldable phone..."];
+const headings = ["Apple announces a new partnership...", "Samsung Releases S23 Ultra in February...", "Earthquake in Turkey...", "Elon Musk's Starlink arrives in Nigeria...", "Tecno Releases new Foldable phone...", "Marvel Releases Antman and the Wasp Quantumania...", "John Wick 4 Release Date...", "Fast X Release Date..."];
 
 let headingIndex = 0;
 
