@@ -89,7 +89,7 @@ const swiper = new Swiper(".swiper", {
     }
 });
 
-
+// Set date for copyright
 const date = document.querySelector("#date");
 // set year
 date.innerHTML = new Date().getFullYear();
